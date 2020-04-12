@@ -5,7 +5,7 @@ Demonstration of the pub/sub features of GraphQL, backed by Apollo Server, using
 
 It's possible to:
 * Subscribe to `messageAdded` subscription
-* Add messages with the mutation `messageAdded`
+* Add messages with the mutation `addMessage`
 
 ## Installation
 To install the project dependencies, run:

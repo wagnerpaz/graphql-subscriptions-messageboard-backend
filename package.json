@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/wagnerpaz/graphql-subscriptions-messageboard-backend#readme",
   "dependencies": {
-    "apollo-server": "^2.12.0"
+    "apollo-server": "^2.25.3"
   }
 }
